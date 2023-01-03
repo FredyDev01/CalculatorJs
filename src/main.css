@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+
+body{
+    position: relative;
+    padding: 0px 0px 0px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right top, #155f75c9, #0b5d79c9, #035c7dc9, #025b81c9, #075985c9), url(./assets/FondoCalculos.jpg);
+}
+
+main{
+    max-width: 332px;
+}
+
+h1 {
+    font-family: 'Aldrich', sans-serif;
+    font-size: 50px !important;
+    font-weight: 600 !important;
+}
+
+p{
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    max-width: 550px;
+}
