@@ -1,4 +1,4 @@
-import { OpeCalc } from './Operaciones.js'
+import { OpeCalc } from './operaciones.js'
  
 
 export class Calculadora{

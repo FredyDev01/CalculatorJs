@@ -1,4 +1,4 @@
-import { Calculadora } from './app/MethodsCalc.js'
+import { Calculadora } from './methods_calc.js'
 
 
 const Container = document.querySelector('#CtnCalculator')
